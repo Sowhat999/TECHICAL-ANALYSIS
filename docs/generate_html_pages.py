@@ -13,8 +13,6 @@ To list available style names (at python prompt)
 # default, lovelace and xcode are "normal" styles
 """
 
-from __future__ import print_function
-
 import os
 import sys
 import talib
